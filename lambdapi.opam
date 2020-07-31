@@ -45,5 +45,4 @@ build: [
 
 install: [
   [ make "install_emacs" ]
-  [ make "install_vim" ]
 ]
